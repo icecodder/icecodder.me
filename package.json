@@ -1,0 +1,25 @@
+{
+  "name": "icecodder.me",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "repository": "https://github.com/icecodder/icecodder.me",
+  "author": "Max Charrier <git@icecodder.me>",
+  "license": "Apache-2.0",
+  "private": true,
+  "dependencies": {
+    "vue": "^3.2.19"
+  },
+  "devDependencies": {
+    "@parcel/transformer-vue": "2.0.0-rc.0",
+    "@vue/compiler-sfc": "^3.2.19",
+    "autoprefixer": "^10.3.6",
+    "parcel": "^2.0.0-rc.0",
+    "postcss": "^8.3.8",
+    "tailwindcss": "^2.2.16"
+  }
+}
