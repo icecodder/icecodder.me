@@ -11,6 +11,9 @@ module.exports = {
         "button-twitter": "#1D9BF0",
         "button-github": "#171515",
         "button-discord": "#5865F2"
+      },
+      backgroundImage: {
+        "hero": "url('/src/assets/background.jpg')"
       }
     }
   },
