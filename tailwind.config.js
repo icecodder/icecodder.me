@@ -13,7 +13,7 @@ module.exports = {
         "button-discord": "#5865F2"
       },
       backgroundImage: {
-        "hero": "url('/src/assets/background.jpg')"
+        "hero": "url('/src/assets/background-hero.jpg')"
       }
     }
   },
