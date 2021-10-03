@@ -5,7 +5,14 @@ module.exports = {
   ],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {}
+    extend: {
+      colors: {
+        "button-email": "#41B883",
+        "button-twitter": "#1D9BF0",
+        "button-github": "#171515",
+        "button-discord": "#5865F2"
+      }
+    }
   },
   variants: {
     extend: {},
