@@ -1,7 +1,7 @@
 <template>
   <header class="flex-grow flex flex-col justify-center items-center space-y-3">
-    <p class="text-5xl text-white">Bienvenue sur <a class="font-extrabold text-yellow-400 underline" href="/">{{ website }}</a></p>
-    <p class="text-xl text-white">🚧 Ce site web est en cours de construction 🚧</p>
+    <p class="flew-wrap sm:flex-nowrap justify-center text-xl sm:text-5xl text-white">Bienvenue sur <a class="font-extrabold text-yellow-400 underline" href="/">{{ website }}</a></p>
+    <p class="text-xs sm:text-xl text-white">🚧 Ce site web est en cours de construction 🚧</p>
     <ButtonRow />
   </header>
 </template>
