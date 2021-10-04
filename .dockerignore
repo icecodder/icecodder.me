@@ -1,0 +1,7 @@
+node_modules
+.parcel-cache
+dist
+.gitignore
+LICENSE
+yarn.lock
+README.md
